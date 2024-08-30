@@ -19,7 +19,7 @@ function App() {
   }
 
   return (
-    <div className="bg-gradient-to-br from-gray-50 to-gray-100 p-6 ">
+    <div className="p-6">
       {/* Search & Add */}
       <div className="flex flex-col justify-between md:flex-row">
         <SearchBar />
